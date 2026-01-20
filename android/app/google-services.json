@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1026934652612",
+    "project_id": "call-86991",
+    "storage_bucket": "call-86991.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026934652612:android:73720f9ed3eaee050cd391",
+        "android_client_info": {
+          "package_name": "com.example.secure_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7tegTaODKzb6HnTstK8YQHC1KT-_Vz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026934652612:android:a77ae926635666500cd391",
+        "android_client_info": {
+          "package_name": "com.secure.call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg7tegTaODKzb6HnTstK8YQHC1KT-_Vz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
